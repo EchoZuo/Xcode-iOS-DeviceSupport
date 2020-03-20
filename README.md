@@ -6,7 +6,7 @@ This repository contains device support files for iOS.
 > Xcode每次更新几乎都会伴随DeviceSupport文件的更新，这里分享一下DeviceSupport源文件，希望可以帮助到大家。
 
 
-#### [使用方式](https://www.jianshu.com/p/aa6bc975c430)：
+#### [使用方式](https://www.jianshu.com/p/aa6bc975c430)(点击跳转查看使用方式)：
 
 - 拷贝对应的DeviceSupport到```/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport``` 如下图
 
@@ -64,6 +64,7 @@ This repository contains device support files for iOS.
    * 13.4 (11.4_beta_3)
 
 ## Info
+- 简书：https://www.jianshu.com/u/3390ce71084e
 - Github：https://github.com/EchoZuo
 - Blog：https://echozuo.github.io
 - WeChat: melody_echo
