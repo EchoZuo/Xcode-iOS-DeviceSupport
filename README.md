@@ -1,8 +1,6 @@
 # Xcode-iOS-DeviceSupport
 This repository contains device support files for iOS.
 
-# Xcode、iOS、DeviceSupport
-
 > Xcode每次更新几乎都会伴随DeviceSupport文件的更新，这里分享一下DeviceSupport源文件，希望可以帮助到大家。
 
 #### log：
