@@ -50,7 +50,8 @@ This repository contains device support files for iOS.
     - 13.2 (11.2.1)
     - 13.2 (11.3)
     - 13.4 (11.4_beta_3)
-    - 13.4（Xcode11.4）
+    - 13.4 (Xcode11.4)
+    - 13.4 (Xcode11.4.1)
 
 ## Info
 - 简书：https://www.jianshu.com/u/3390ce71084e
