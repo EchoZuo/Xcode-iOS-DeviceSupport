@@ -4,7 +4,8 @@ This repository contains device support files for iOS.
 > Xcode每次更新几乎都会伴随DeviceSupport文件的更新，这里分享一下DeviceSupport源文件，希望可以帮助到大家。
 
 #### log：
-- 2020.03.25更新：新增 13.4 DeviceSupport（Xcode13.4
+- 2020.03.25更新：新增 13.4 DeviceSupport（Xcode13.4）
+- 2020.05.20更新：新增 13.5 GM DeviceSupport (Xcode11.5 GM seed)
 
 #### [使用方式](https://www.jianshu.com/p/aa6bc975c430)(点击跳转查看使用方式)：
 
