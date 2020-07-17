@@ -56,6 +56,7 @@ This repository contains device support files for iOS.
     - 13.4 (Xcode11.4.1_11E503a)
     - 13.5 (11.5 GM seed)
     - 13.5（Xcode_11.5）
+    - 14.0（12.0_beta_12A6159）
 
 ## Info
 - 简书：https://www.jianshu.com/u/3390ce71084e
