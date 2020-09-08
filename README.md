@@ -9,7 +9,6 @@ This repository contains device support files for iOS.
 - 2020-06-03更新：新增 13.5 正式版 DeviceSupport（Xcode_11.5）
 - 2020-07-17更新：新增 14.0 Beta版本 DeviceSupport（12.0_beta_12A6159）
 - 2020-09-08更新：新增 13.6、13.7、14.0 Beta DeviceSupport
-
 #### [使用方式](https://www.jianshu.com/p/aa6bc975c430)(点击跳转查看使用方式)：
 
 - 拷贝对应的DeviceSupport到```/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport``` 如下图
