@@ -4,6 +4,12 @@ This repository contains device support files for iOS.
 > Xcode每次更新几乎都会伴随DeviceSupport文件的更新，这里分享一下DeviceSupport源文件，希望可以帮助到大家。
 
 #### log：
+- 2022-05-24更新：新增 15.5(Xcode_13.4) DeviceSupport
+
+- 2022-04-17更新：新增 15.4(FromXcode_13.3(13E113)) 15.4DeviceSupport
+
+- 2022-02-15更新：新增 14.6、15.0、15.2、15.4DeviceSupport
+
 - 2021-05-16更新：新增 14.3、14.4、14.5 DeviceSupport
 
 - 2020-11-09更新：新增 14.2 DeviceSupport，来自  Xcode_12.2_Release_Candidate
@@ -45,23 +51,18 @@ This repository contains device support files for iOS.
 1. iOS 8		
 
    - 8.0、8.1、8.2 、8.3 、8.4 
-
 2. iOS 9
 
    - 9.0 、9.1、9.2、9.3
-
 3. iOS 10
 
    - 10.0 、10.1 、10.2 、10.3 
-
 4. iOS 11
 
    - 11.0、11.1、11.2、11.3、11.4
-
 5. iOS12
 
    - 12.0 、12.1、12.2、12.3、12.4、12.4（11_Beta_7）
-
 6. iOS13
 
    - 13.0
@@ -79,7 +80,6 @@ This repository contains device support files for iOS.
    - 13.5(Xcode_11.5)
    - 13.6(Xcode_11.6)
    - 13.7(Xcode_11.7)
-   
 7. iOS 14
    - 14.0(Xcode_12.0_beta_12A6159)
    - 14.0(Xcode_12.0_beta6_12A8189n)
@@ -97,6 +97,11 @@ This repository contains device support files for iOS.
    - 14.5(Xcode_12.5_beta_3_xip)
    - 14.5(Xcode_12.5_beta_12E5220o)
    - 14.5(Xcode_12.5)
+   - 14.6(Xcode_12.4(12D4e)) 
+7. iOS 15
+   - 15.0(Xcode13)
+   - 15.2(Xcode_13_2_1)
+   - 15.4(Xcode_13.3_beta_2)
 
 ## Info
 - 简书：https://www.jianshu.com/u/3390ce71084e
