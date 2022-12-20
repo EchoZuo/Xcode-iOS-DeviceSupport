@@ -4,6 +4,9 @@ This repository contains device support files for iOS.
 > Xcode每次更新几乎都会伴随DeviceSupport文件的更新，这里分享一下DeviceSupport源文件，希望可以帮助到大家。
 
 #### log：
+
+- 2022-12-20更新：新增 16.1(Xcode14.1)
+
 - 2022-06-08更新：新增 16.0 (FromXcode_14_beta.xip)
 
 - 2022-05-24更新：新增 15.5(Xcode_13.4) DeviceSupport
@@ -104,6 +107,9 @@ This repository contains device support files for iOS.
    - 15.0(Xcode13)
    - 15.2(Xcode_13_2_1)
    - 15.4(Xcode_13.3_beta_2)
+7. iOS 16
+   - 16.0(Xcode14)
+   - 16.1(Xcode14.1)
 
 ## Info
 - 简书：https://www.jianshu.com/u/3390ce71084e
