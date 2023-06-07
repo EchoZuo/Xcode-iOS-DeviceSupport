@@ -56,22 +56,16 @@ This repository contains device support files for iOS.
 ##### Xcode_libstdc文件：[Xcode_libstdc](:https://pan.baidu.com/s/1fio4N8pnwjVgAShrxnb1TQ)(提取码:9ra7)（[使用方式](https://www.jianshu.com/p/3afd5e8cdbf8)）
 
 1. iOS 8		
-
    - 8.0、8.1、8.2 、8.3 、8.4 
 2. iOS 9
-
    - 9.0 、9.1、9.2、9.3
 3. iOS 10
-
    - 10.0 、10.1 、10.2 、10.3 
 4. iOS 11
-
    - 11.0、11.1、11.2、11.3、11.4
-5. iOS12
-
+5. iOS 12
    - 12.0 、12.1、12.2、12.3、12.4、12.4（11_Beta_7）
-6. iOS13
-
+6. iOS 13
    - 13.0
    - 13.0
    - 13.0 (11_Beta_7)
@@ -105,13 +99,15 @@ This repository contains device support files for iOS.
    - 14.5(Xcode_12.5_beta_12E5220o)
    - 14.5(Xcode_12.5)
    - 14.6(Xcode_12.4(12D4e)) 
-7. iOS 15
+8. iOS 15
    - 15.0(Xcode13)
    - 15.2(Xcode_13_2_1)
    - 15.4(Xcode_13.3_beta_2)
-7. iOS 16
+9. iOS 16
    - 16.0(Xcode14)
    - 16.1(Xcode14.1)
+   - 16.4
+
 
 ## Info
 - 简书：https://www.jianshu.com/u/3390ce71084e
